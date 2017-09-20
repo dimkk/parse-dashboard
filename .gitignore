@@ -11,3 +11,4 @@ npm-debug.log
 *.swp
 .env
 .idea/
+parse-dashboard-config.1.json
